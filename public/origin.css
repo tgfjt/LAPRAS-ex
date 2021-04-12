@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+body {
+  line-height: 1.5;
+}
+
+.c-button {
+  display: inline-flex;
+  margin: 0;
+  padding: 1em 2em;
+  border: 0;
+  background: none;
+  border-radius: 10px;
+}
